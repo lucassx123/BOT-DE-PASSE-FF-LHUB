@@ -51,7 +51,7 @@ Bot de Discord para integração com a API da **LHUB** - Fornecedor #1 de Passe 
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/lhub-discord-bot.git
+git clone https://github.com/lucassx123/bot-vendas-passe-ff/lhub-discord-bot.git
 cd lhub-discord-bot
 ```
 
@@ -252,8 +252,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 🤝 Suporte
 
-- **Discord LHUB**: [Entrar](https://discord.gg/lhub)
-- **Site**: [passesff.squareweb.app](https://passesff.squareweb.app)
+- **Discord LHUB**: [Entrar](https://discord.gg/qkB6sWSWJn)
+- **Site**: [passesff.squareweb.app](https://lhubff.com.br)
 - **Instagram**: [@lhubofc](https://instagram.com/lhubofc)
 
 ## ⭐ Créditos
